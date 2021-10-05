@@ -1,0 +1,15 @@
+C:\ProjetosSVN\dotNet\ConsultaPatioDetranMg\ConsultaPatioDetranMg\bin\Release\ConsultaPatioDetranMg.exe.config
+C:\ProjetosSVN\dotNet\ConsultaPatioDetranMg\ConsultaPatioDetranMg\bin\Release\ConsultaPatioDetranMg.exe
+C:\ProjetosSVN\dotNet\ConsultaPatioDetranMg\ConsultaPatioDetranMg\bin\Release\ConsultaPatioDetranMg.pdb
+C:\ProjetosSVN\dotNet\ConsultaPatioDetranMg\ConsultaPatioDetranMg\bin\Release\WebDriver.dll
+C:\ProjetosSVN\dotNet\ConsultaPatioDetranMg\ConsultaPatioDetranMg\bin\Release\WebDriver.Support.dll
+C:\ProjetosSVN\dotNet\ConsultaPatioDetranMg\ConsultaPatioDetranMg\bin\Release\WebDriver.xml
+C:\ProjetosSVN\dotNet\ConsultaPatioDetranMg\ConsultaPatioDetranMg\bin\Release\WebDriver.Support.xml
+C:\ProjetosSVN\dotNet\ConsultaPatioDetranMg\ConsultaPatioDetranMg\obj\Release\ConsultaPatioDetranMg.csproj.AssemblyReference.cache
+C:\ProjetosSVN\dotNet\ConsultaPatioDetranMg\ConsultaPatioDetranMg\obj\Release\ConsultaPatioDetranMg.Properties.Resources.resources
+C:\ProjetosSVN\dotNet\ConsultaPatioDetranMg\ConsultaPatioDetranMg\obj\Release\ConsultaPatioDetranMg.Telas.Upload.resources
+C:\ProjetosSVN\dotNet\ConsultaPatioDetranMg\ConsultaPatioDetranMg\obj\Release\ConsultaPatioDetranMg.csproj.GenerateResource.cache
+C:\ProjetosSVN\dotNet\ConsultaPatioDetranMg\ConsultaPatioDetranMg\obj\Release\ConsultaPatioDetranMg.csproj.CoreCompileInputs.cache
+C:\ProjetosSVN\dotNet\ConsultaPatioDetranMg\ConsultaPatioDetranMg\obj\Release\ConsultaPatioDetranMg.csproj.CopyComplete
+C:\ProjetosSVN\dotNet\ConsultaPatioDetranMg\ConsultaPatioDetranMg\obj\Release\ConsultaPatioDetranMg.exe
+C:\ProjetosSVN\dotNet\ConsultaPatioDetranMg\ConsultaPatioDetranMg\obj\Release\ConsultaPatioDetranMg.pdb
